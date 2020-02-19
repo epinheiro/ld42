@@ -1,0 +1,19 @@
+Tiles
+  Pantano (slow - 1 passo)
+  Mato (normal - 2 passos)
+  Campo (rápido - 3 passos)
+  Montanha (não dá pra passar)
+  Árido (pode passar duas vezes - fica crackelado)
+
+Gameplay
+  Tiles
+    Mudar a cor ao passar o mouse em cima do tile
+	Capacidade de clicar em um tile ao redor do personagem
+	Tile degrada ou some ao passar	
+  Câmera
+    Controle com AWSD
+	Mudança de posição arrastando o mouse para a borda da tela
+	Zoom com scroll do mouse
+  Powerups
+    ?
+  
